@@ -28,6 +28,18 @@ const ProjectCardData = [
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis malesuada felis, sed faucibus magna lobortis id. Etiam eu egestas urna. Mauris et lorem egestas, consequat odio ut, gravida enim. Cras egestas lobortis ex, sed lobortis tellus maximus nec.",
     view: "https://github.com/Srikant114"
   },
+  {
+    imgsrc: pro4,
+    title: "Calculator",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis malesuada felis, sed faucibus magna lobortis id. Etiam eu egestas urna. Mauris et lorem egestas, consequat odio ut, gravida enim. Cras egestas lobortis ex, sed lobortis tellus maximus nec.",
+    view: "https://github.com/Srikant114"
+  },
+  {
+    imgsrc: pro4,
+    title: "Calculator",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mollis malesuada felis, sed faucibus magna lobortis id. Etiam eu egestas urna. Mauris et lorem egestas, consequat odio ut, gravida enim. Cras egestas lobortis ex, sed lobortis tellus maximus nec.",
+    view: "https://github.com/Srikant114"
+  },
 ];
 
 export default ProjectCardData
